@@ -4,3 +4,4 @@
  node2: RUSTFLAGS='-Awarnings' cargo run -- --id 2
  node3: RUSTFLAGS='-Awarnings' cargo run -- --id 3
  node4: RUSTFLAGS='-Awarnings' cargo run -- --id 4
+ node5: RUSTFLAGS='-Awarnings' cargo run -- --id 5
